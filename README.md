@@ -15,7 +15,7 @@ JPay-Web-master/
 │ └── main/
 │ ├── java/
 │ │ └── com/xc/
-│ │ ├── common/  
+│ │ ├── common/
 │ │ │ ├── tools/ # 工具类
 │ │ │ └── type/ # 类型定义
 │ │ └── Application.java # 启动类
